@@ -47,7 +47,7 @@ The app will open in your default web browser.
 
 
 ## Educational Purpose
-This tool was designed by Amir Jelogir, a high school mathematics teacher in Sarayan, to help students better understand data visualization and develop critical thinking skills when interpreting charts and graphs.
+This tool was designed by Amir Jlogir, as a high school mathematics teacher, to help students better understand data visualization and develop critical thinking skills when interpreting charts and graphs.
 
 ## Language
 The application interface is in Persian (Farsi) with RTL support.
