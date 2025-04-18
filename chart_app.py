@@ -857,7 +857,8 @@ if show_answer3:
 
 # --- پاورقی ---
 st.markdown("""
-<div style="margin-top: 50px; padding: 15px; border-top: 1px solid #ddd; text-align: center; font-size: 1.2em; color: #000000; font-weight: bold; font-family: 'Vazirmatn', Tahoma, sans-serif !important;">
-این ابزار آموزشی برای درک بهتر نمودارها و تفسیر صحیح داده‌ها، توسط امیر جلوگیر دبیر ریاضی مقطع متوسطه دوم شهرستان سرایان طراحی شده است.
+<div class="math-theme">
+      این ابزار آموزشی برای درک بهتر نمودارها و تفسیر صحیح داده‌ها، توسط امیر جلوگیر دبیر ریاضی مقطع متوسطه دوم شهرستان سرایان طراحی شده است.      
 </div>
+       
 """, unsafe_allow_html=True)
